@@ -21,5 +21,5 @@ Algunos de los problemas con los que el equipo se encontro para la realización 
 * **Análisis correcto de los datos**. Saber que datos, y en que forma estos podrian ayudarnos a entrenar los modelos de manera efectiva requirió tanto de pruebas de distintos conjuntos de datos, así como también de los modelos y los resultados que estos nos arrojaban para cada combinación de datos.
 
 
-## Link al notebook en Google Colab.
+## Link al notebook en Google Colab
 https://colab.research.google.com/drive/1EHpNfg4JpJImaHKSaizKowmpR5McNkeb?usp=sharing
